@@ -88,11 +88,11 @@ class Ashwin:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ashwincv">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashwincv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=contribs&rank_icon=github"/>
+  <a href="https://github.com/xxcchhuu">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=xxcchhuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=contribs&rank_icon=github"/>
   </a>
-  <a href="https://github.com/ashwincv">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwincv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/xxcchhuu">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxcchhuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -101,7 +101,7 @@ class Ashwin:
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-seven-rho.vercel.app?user=ashwincv&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=10"/>
+  <img src="https://github-readme-streak-stats-seven-rho.vercel.app?user=xxcchhuu&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&border_radius=10"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ class Ashwin:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwincv&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xxcchhuu&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -117,7 +117,7 @@ class Ashwin:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwincv&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&title=Repositories,Commits,Stars,Followers,Issues,PullRequest"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=xxcchhuu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&title=Repositories,Commits,Stars,Followers,Issues,PullRequest"/>
 </div>
 
 ---
@@ -214,7 +214,7 @@ class Ashwin:
 
 [![Email](https://img.shields.io/badge/Email-ashwin2004cv%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwin2004cv@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashwin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ashwincv-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashwincv)
+[![GitHub](https://img.shields.io/badge/GitHub-xxcchhuu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/xxcchhuu)
 
 📍 Kochi, Kerala, India &nbsp;|&nbsp; 📞 +91 7736249417
 
@@ -223,7 +223,7 @@ class Ashwin:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwincv&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=xxcchhuu&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
