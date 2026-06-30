@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Ashwin+%F0%9F%91%8B;Data+Analyst+%7C+Cloud+Specialist;Python+%7C+PySpark+%7C+AWS+%7C+Snowflake;Building+Data+Pipelines+%26+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ashwin+%F0%9F%91%8B;Data+Analyst+%7C+Cloud+Computing+Specialist;Python+%7C+PySpark+%7C+AWS+%7C+Snowflake;Building+ETL+Pipelines+%26+Analytics+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,26 +14,27 @@
 
 ```python
 class Ashwin:
-    name       = "Ashwin"
-    location   = "Kochi, Kerala, India 🇮🇳"
-    degree     = "BCA — Mahatma Gandhi University Kerala"
-    email      = "ashwin2004cv@gmail.com"
+    name     = "Ashwin"
+    location = "Kochi, Kerala, India 🇮🇳"
+    degree   = "BCA — Mahatma Gandhi University Kerala"
+    email    = "ashwin2004cv@gmail.com"
 
     stack = [
         "Python", "SQL", "PySpark",
         "AWS", "Snowflake", "Streamlit",
+        "Azure", "Databricks", "Power BI",
         "Java", "JavaScript", "HTML/CSS"
     ]
 
     currentlyLearning = [
         "Cloud Data Analytics",
         "ETL Pipeline Engineering",
-        "Data Warehousing with Snowflake",
+        "Azure Data Factory & Databricks",
         "AWS Lambda & Serverless Architectures"
     ]
 
-    funFact = "I once debugged a pipeline at 2AM — \
-               the bug was a missing comma 😅"
+    funFact = "I built a news sentiment pipeline \
+               that never sleeps — unlike me 😅"
 
     def motto(self):
         return "Build. Learn. Iterate. 🚀"
@@ -68,11 +69,17 @@ class Ashwin:
 ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS%20Fargate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Data%20Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
 
 **Tools**
@@ -89,7 +96,7 @@ class Ashwin:
 
 <div align="center">
   <a href="https://github.com/xxcchhuu">
-    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxcchhuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=contribs&rank_icon=github"/>
+    <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xxcchhuu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/xxcchhuu">
     <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xxcchhuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
@@ -117,7 +124,7 @@ class Ashwin:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xxcchhuu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&title=Repositories,Commits,Stars,Followers,Issues,PullRequest"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=xxcchhuu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 ---
@@ -125,16 +132,16 @@ class Ashwin:
 ## 💼 Work Experience
 
 <details>
-<summary>☁️ <strong>Expertz Lab, Palarivattom</strong> — Cloud Data Analytics Intern &nbsp;|&nbsp; 2026 – Present &nbsp;|&nbsp; Kerala, India</summary>
+<summary>☁️ <strong>Gofreelab, Palarivattom</strong> — Cloud Data Analytics Intern &nbsp;|&nbsp; 2026 – Present &nbsp;|&nbsp; Kerala, India</summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 - 🔧 Developing end-to-end ETL pipelines using Python, PySpark, and SQL to process large datasets for analysis and reporting
 - ☁️ Building cloud-based data solutions on AWS involving Lambda, S3, DynamoDB, and RDS for scalable data storage and transformation
 - 📊 Gaining hands-on experience with Snowflake for cloud data warehousing and analytics workflows
-- 🌐 Completing real-world data engineering and analytics projects as part of the Cloud Data Analytics training program (2026)
+- 🌐 Building end-to-end projects involving AWS Lambda, DynamoDB, S3, RDS, and data pipelines
 
 </details>
 
@@ -159,8 +166,10 @@ class Ashwin:
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [**🖥️ Build Your PC**](#) | Android · Java · SQLite | Marketplace app for buying/selling pre-owned PCs & components with integrated PC service booking system; full CRUD with database operations |
-| [**🛂 Border Control Management System**](#) | HTML · CSS · JS · PHP · MySQL | Tracks border crossings, verifies traveler documents, manages officer shifts, and supports detection of illegal immigration activities |
+| [**📰 News Sentiment Analysis Pipeline**](https://github.com/xxcchhuu/news-sentiment-pro) | Python · AWS Lambda · ECS Fargate · RDS · S3 · Streamlit | Automated AWS pipeline collecting & processing news sentiment data into PostgreSQL RDS; Streamlit dashboard with near real-time sentiment trend visualization |
+| [**🏎️ F1 Racing Data Pipeline**](https://github.com/xxcchhuu) | Python · Azure Data Factory · ADLS · Databricks · Power BI | Ingested F1 racing data from Ergast API into Azure Data Lake; transformed with Databricks and built interactive Power BI dashboards for analytics |
+| [**🖥️ Build Your PC**](https://github.com/xxcchhuu) | Android · Java · SQLite | Marketplace app for buying/selling pre-owned PCs & components with integrated service booking and database operations |
+| [**🛂 Border Control Management System**](https://github.com/xxcchhuu) | HTML · CSS · JS · PHP · MySQL | Database-driven system managing border crossings, traveler verification, officer assignments, and security monitoring & reporting |
 
 </div>
 
@@ -173,10 +182,11 @@ class Ashwin:
 | 🎯 | Achievement | Details |
 |:--:|:-----------:|:-------:|
 | 🎓 | **BCA Graduate** | Bachelor of Computer Application — Mahatma Gandhi University Kerala, 2022–2025 |
-| ☁️ | **Cloud Data Analytics Certification** | Expertz Lab, Palarivattom — Hands-on training in Python, SQL, PySpark, AWS & Snowflake (2026) |
-| 🔧 | **ETL Pipeline Engineer** | Built real-world data engineering & analytics projects using cloud technologies at Expertz Lab |
-| 📱 | **Android Developer** | Delivered functional Android applications during internship at LCC Computer Education (2025) |
-| 🌐 | **Multi-lingual** | Proficient in English (Intermediate), Tamil (Basic), and Malayalam (Native) |
+| ☁️ | **Cloud Data Analytics Certification** | ExpertzLab, Palarivattom — Python, SQL, PySpark, AWS, Snowflake, ETL & Data Warehousing (2026) |
+| 🏗️ | **AWS Pipeline Engineer** | Built automated cloud pipeline: Lambda + ECS Fargate + RDS + S3 for real-time news sentiment analysis |
+| 📊 | **Azure Data Engineer** | Ingested & transformed Formula 1 data using Azure Data Factory, ADLS, Databricks & Power BI |
+| 📱 | **Android Developer** | Delivered functional Android marketplace app during internship at LCC Computer Education (2025) |
+| 🌐 | **Multi-lingual** | English (Intermediate) · Tamil (Basic) · Malayalam (Native) |
 
 </div>
 
@@ -186,10 +196,10 @@ class Ashwin:
 
 <div align="center">
 
-| Degree | Institution | Year | 
+| Degree | Institution | Year |
 |:------:|:-----------:|:----:|
 | 🎓 Bachelor of Computer Application (BCA) | Mahatma Gandhi University Kerala | 2022 – 2025 |
-| ☁️ Cloud Data Analytics Program | Expertz Lab, Palarivattom | 2026 |
+| ☁️ Cloud Data Analytics Program | ExpertzLab, Palarivattom | 2026 |
 
 </div>
 
@@ -199,11 +209,11 @@ class Ashwin:
 
 ```
 🐍 Python Advanced    →  PySpark, Data Pipelines, Automation Scripts
-☁️ AWS Cloud          →  Lambda, S3, DynamoDB, RDS, IAM, Serverless
+☁️ AWS Cloud          →  Lambda, S3, DynamoDB, RDS, ECS Fargate, IAM
 ❄️ Snowflake          →  Data Warehousing, Cloud Analytics, Streams & Tasks
+🔷 Azure              →  Data Factory, ADLS Gen2, Databricks, Power BI
 🔄 ETL Engineering    →  Pipeline Design, Data Transformation, Batch Processing
-📊 Data Analytics     →  Exploratory Analysis, Visualisation, Reporting
-🛠️ Tools              →  Streamlit Dashboards, Git Workflows, VS Code Extensions
+📊 Data Analytics     →  Sentiment Analysis, Real-time Dashboards, Reporting
 ```
 
 ---
